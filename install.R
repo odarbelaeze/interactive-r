@@ -1,3 +1,3 @@
-library.install("ggplot2")
-library.install("tidyverse")
-library.install("gapminder")
+install.packages("ggplot2")
+install.packages("tidyverse")
+install.packages("gapminder")
